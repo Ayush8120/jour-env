@@ -1,0 +1,2 @@
+N_SAMPLES = 1000
+epochs = 5000
